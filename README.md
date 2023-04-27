@@ -76,5 +76,5 @@ Given: the table `users_sessions` that contains data about users' online session
 * `action` -  field that specify the session openning or closing (‘open’ and ‘close’)
 * `date_action` - timestamp of oppening/closing depending on the `action` field
 
-Calculate the total time (unrounded) a user's sessions for each user, for every day for last 10 days (including the current day).
+Calculate the total time (unrounded) of all user sessions for each user, for every day for the last 10 days (including the current day).
 				
