@@ -1,6 +1,6 @@
 # socialtech-test-task
 
-Test task from SocialTech for Product Analyst postion in Nov 2022.
+My test task for SocialTech on Product Analyst postion in Nov 2022, translated to English by me.
 
 ## Task 1. AB testing
 
