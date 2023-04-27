@@ -36,6 +36,8 @@ Should the new UI version be published for all users, or it be rejected?
 
 ## Task 3. mySQL
 
+Syntax -- mySQL.
+
 ### Task 3.1 
 
 Given: DB contains the following tables
