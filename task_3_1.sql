@@ -6,8 +6,8 @@ FROM users u
 		JOIN countries c ON u.id_country = c.id
 GROUP BY date(u.date_reg), c.country_group;
 
--- 3.1.2. Calculate the percent of emails, that were clicked during the first 10 mins after the email was sent,
--- within the last 7 days; 
+-- 3.1.2. Calculate the percent of emails, that were clicked during the first 10 mins
+-- after the email was sent, within the last 7 days; 
 WITH last_week_emails AS (
 SELECT es.id id_email,
         es.date_sent,
