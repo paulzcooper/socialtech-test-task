@@ -2,6 +2,8 @@
 
 My test task for SocialTech on Product Analyst postion in Nov 2022, translated to English by me. No raw data of the task, just my answers.
 
+**UPD 2023-05-19:** Added solution for task 3.2 (mySQL query).
+
 ## Task 1. AB testing
 
 Given: A product, where a user can buy game currency with real money. The design team suggests to replace the current UI of the payment screen on mobile apps to increase the number of payments.
