@@ -1,4 +1,4 @@
--- 3.2 Calculate the total time (unrounded) of all user sessions for each user,
+-- 3.2 Calculate the total time (in unrounded hours) of all user sessions for each user,
 -- for every day for the last 10 days (including the current day).
 WITH sessions AS (
 SELECT DISTINCT us.id_user, DATE(us.date_action) date,
