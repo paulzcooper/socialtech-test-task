@@ -3,6 +3,7 @@
 My test task for SocialTech on Product Analyst postion in Nov 2022, translated to English by me. No raw data of the task, just my answers.
 
 **UPD 2023-05-19:** Added solution for task 3.2 (mySQL query).
+
 **UPD 2023-05-21:** Added comment to conclusion of task 1.
 
 ## Task 1. AB testing
